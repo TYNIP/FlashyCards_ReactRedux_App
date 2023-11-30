@@ -1,7 +1,7 @@
 # FlashyCards - React Redux App
 FlashyCards is a React Redux application built with Redux Toolkit that provides users with a versatile platform for creating, managing, and studying topics and quizzes.
 
-Website: [FlashyCards](https://flashyCards.netlify.app/) 
+Website: [FlashyCards](https://flashycardapp.netlify.app/) 
 
 ## Features
 #### Topic Management
