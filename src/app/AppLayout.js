@@ -18,7 +18,7 @@ export default function AppLayout() {
                     Quizzes
                     </NavLink>
                 </li>
-                <li>
+                <li>    
                     <NavLink to={ROUTES.newQuizRoute()} >
                     New Quiz
                     </NavLink>
